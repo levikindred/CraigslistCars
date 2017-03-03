@@ -1,0 +1,3 @@
+Mercedes-Benz,mercedes
+Chevrolet,chevy
+Volkswagen,vw
